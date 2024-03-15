@@ -1,6 +1,5 @@
 import math
-
-from square_generator.square_generator import SquareGenerator
+from square_generator import SquareGenerator
 
 l = [x*x for x in range(1, 11)]
 
